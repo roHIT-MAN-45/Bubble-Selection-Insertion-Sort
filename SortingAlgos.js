@@ -13,6 +13,13 @@ Pseudocode
 ⚡ If arr[j] is greater than arr[j + 1], swap those two values!
 */
 
+/*
+Time Complexity(Best) = O(n)
+Time Complexity(Average) = O(n²)
+Time Complexity(Worst) = O(n²)
+Space Complexity = O(1
+*/
+
 function bubbleSort(arr) {
   let noSwaps;
   for (let i = arr.length; i > 0; i--) {
@@ -49,6 +56,13 @@ Similar to bubble sort, but instead of first placing large values into sorted po
 ⚡ Repeat this with the next element until the array is sorted. 
 */
 
+/*
+Time Complexity(Best) = O(n)
+Time Complexity(Average) = O(n²)
+Time Complexity(Worst) = O(n²)
+Space Complexity = O(1
+*/
+
 function selectionSort(arr) {
   for (let i = 0; i < arr.length; i++) {
     let lowest = i;
@@ -74,6 +88,13 @@ Insertion Sort
 
 /*
 Builds up the sort by gradually creating a larger left half which is always sorted.
+*/
+
+/*
+Time Complexity(Best) = O(n)
+Time Complexity(Average) = O(n²)
+Time Complexity(Worst) = O(n²)
+Space Complexity = O(1
 */
 
 /*
