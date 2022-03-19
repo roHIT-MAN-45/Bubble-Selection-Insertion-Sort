@@ -60,7 +60,7 @@ Similar to bubble sort, but instead of first placing large values into sorted po
 Time Complexity(Best) = O(n)
 Time Complexity(Average) = O(n²)
 Time Complexity(Worst) = O(n²)
-Space Complexity = O(1
+Space Complexity = O(1)
 */
 
 function selectionSort(arr) {
@@ -94,7 +94,7 @@ Builds up the sort by gradually creating a larger left half which is always sort
 Time Complexity(Best) = O(n)
 Time Complexity(Average) = O(n²)
 Time Complexity(Worst) = O(n²)
-Space Complexity = O(1
+Space Complexity = O(1)
 */
 
 /*
