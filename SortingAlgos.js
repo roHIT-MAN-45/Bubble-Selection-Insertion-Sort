@@ -17,7 +17,7 @@ Pseudocode
 Time Complexity(Best) = O(n)
 Time Complexity(Average) = O(n²)
 Time Complexity(Worst) = O(n²)
-Space Complexity = O(1
+Space Complexity = O(1)
 */
 
 function bubbleSort(arr) {
